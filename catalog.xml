@@ -3,7 +3,7 @@
   <plugin id="wrld.skin-browser">
     <name>Skin Browser</name>
     <author>Andriushka</author>
-    <version>1.1</version>
+    <version>1.1.0</version>
     <description>Catalog, username and USB skin downloader for Minecraft PS4.</description>
     <category>Customization</category>
     <icon>
@@ -15,7 +15,7 @@
       <fileName>wrld_skin_browser.sprx</fileName>
       <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.1/wrld_skin_browser.sprx</url>
       <size>197584</size>
-      <sha256>c46269f708f07bf442295aecb776585e260f3135a44b62c48ed4e88c374ad072</sha256>
+      <sha256>54ba0efe6c4080247da24bb9f1ee3995709ec3c16ce8ee0508f831aecc15e9c7</sha256>
     </release>
     <compatibility>
       <titleId>CUSA00265</titleId>
