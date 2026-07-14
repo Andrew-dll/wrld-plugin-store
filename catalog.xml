@@ -4,7 +4,7 @@
     <name>Skin Browser</name>
     <author>Andriushka</author>
     <version>1.0</version>
-    <description>Catalog, username and USB skin browser for Minecraft PS4.</description>
+    <description>Catalog, username and USB skin downloader for Minecraft PS4.</description>
     <category>Customization</category>
     <icon>
       <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.0/icon.png</url>
@@ -27,7 +27,7 @@
     <name>Credits Mod Menu</name>
     <author>Andriushka</author>
     <version>1.2</version>
-    <description>Animated rainbow main-menu credit made for fun!</description>
+    <description>Animated rainbow main-menu credit made for fun! I was bored :) </description>
     <category>Customization</category>
     <icon>
       <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.2/icon.png</url>
