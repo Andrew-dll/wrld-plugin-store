@@ -3,19 +3,19 @@
   <plugin id="wrld.skin-browser">
     <name>Skin Browser</name>
     <author>Andriushka</author>
-    <version>1.0</version>
+    <version>1.1</version>
     <description>Catalog, username and USB skin downloader for Minecraft PS4.</description>
     <category>Customization</category>
     <icon>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.0/icon.png</url>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.1/icon.png</url>
       <size>240084</size>
       <sha256>12c0b5b92475bd48352703145977c2e2ac6b5c66ca36fa79b610f5bb5050b036</sha256>
     </icon>
     <release>
       <fileName>wrld_skin_browser.sprx</fileName>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.0/wrld_skin_browser.sprx</url>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.1/wrld_skin_browser.sprx</url>
       <size>197584</size>
-      <sha256>9bf9fdf9d6afb336cbe677f4744f7e7da742faf22083cad6bae6858b33b7f156</sha256>
+      <sha256>c46269f708f07bf442295aecb776585e260f3135a44b62c48ed4e88c374ad072</sha256>
     </release>
     <compatibility>
       <titleId>CUSA00265</titleId>
