@@ -26,17 +26,17 @@
   <plugin id="wrld.credits-mod-menu">
     <name>Credits Mod Menu</name>
     <author>Andriushka</author>
-    <version>1.2</version>
+    <version>1.3</version>
     <description>Animated rainbow main-menu credit made for fun! I was bored :) </description>
     <category>Customization</category>
     <icon>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.2/icon.png</url>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.3/icon.png</url>
       <size>247413</size>
       <sha256>cd8bc02f42a522eace6387f4b19056845740f399412d31aaee703b16219d6b2b</sha256>
     </icon>
     <release>
       <fileName>wrld_credits_mod_menu.sprx</fileName>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.2/wrld_credits_mod_menu.sprx</url>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.3/wrld_credits_mod_menu.sprx</url>
       <size>54064</size>
       <sha256>2921ec093240b7f1d89a2221b1dd9b6c0f956112969499b8d584af6134579e27</sha256>
     </release>
