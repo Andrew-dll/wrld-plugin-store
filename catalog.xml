@@ -6,7 +6,11 @@
     <version>1.0</version>
     <description>Catalog, username and USB skin browser for Minecraft PS4.</description>
     <category>Customization</category>
-    <icon>default</icon>
+    <icon>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.0/icon.png</url>
+      <size>240084</size>
+      <sha256>12c0b5b92475bd48352703145977c2e2ac6b5c66ca36fa79b610f5bb5050b036</sha256>
+    </icon>
     <release>
       <fileName>wrld_skin_browser.sprx</fileName>
       <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/1.0/wrld_skin_browser.sprx</url>
@@ -27,8 +31,8 @@
     <category>Customization</category>
     <icon>
       <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/credits-mod-menu/1.2/icon.png</url>
-      <size>4555</size>
-      <sha256>492be800321d88161b7dcab83d803b410f25d3efa83fb4f3c8ba74cfcc3934de</sha256>
+      <size>247413</size>
+      <sha256>cd8bc02f42a522eace6387f4b19056845740f399412d31aaee703b16219d6b2b</sha256>
     </icon>
     <release>
       <fileName>wrld_credits_mod_menu.sprx</fileName>
