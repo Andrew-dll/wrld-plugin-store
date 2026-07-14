@@ -3,7 +3,7 @@
   <plugin id="wrld.skin-browser">
     <name>Skin Browser</name>
     <author>Andriushka</author>
-    <version>1.1.0</version>
+    <version>1.1</version>
     <description>Catalog, username and USB skin downloader for Minecraft PS4.</description>
     <category>Customization</category>
     <icon>
