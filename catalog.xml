@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<pluginCatalog schemaVersion="1" generated="2026-07-13">
+<pluginCatalog schemaVersion="1" generated="2026-07-16">
   <plugin id="wrld.skin-browser">
     <name>Skin Browser</name>
     <author>Andriushka</author>
-    <version>2.0</version>
-    <description>Catalog, username and USB skin downloader for Minecraft PS4.</description>
+    <version>2.1</version>
+    <description>Catalog, username and USB skin browser with official and custom cape support for Minecraft PS4.</description>
     <category>Customization</category>
     <icon>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/2.0/icon.png</url>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/2.1/icon.png</url>
       <size>240084</size>
       <sha256>12c0b5b92475bd48352703145977c2e2ac6b5c66ca36fa79b610f5bb5050b036</sha256>
     </icon>
     <release>
       <fileName>wrld_skin_browser.sprx</fileName>
-      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/2.0/wrld_skin_browser.sprx</url>
-      <size>197584</size>
-      <sha256>444ab864d01bb6435157b7f8743f715ba45bdf3061f2c03a3bfe88728bf8e46f</sha256>
+      <url>https://raw.githubusercontent.com/Andrew-dll/wrld-plugin-store/main/plugins/skin-browser/2.1/wrld_skin_browser.sprx</url>
+      <size>232944</size>
+      <sha256>cf732c9c5b98d395ce163f78267f875d80937284268f197a20e37574571926be</sha256>
     </release>
     <compatibility>
       <titleId>CUSA00265</titleId>
